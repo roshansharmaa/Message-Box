@@ -22,8 +22,8 @@ This project is licensed under the Lotus Flowers License
 
 ## Live Preview
 #### ADULTS ONLY
-* [Live Site](https://pawn-stars.netlify.app/)
+* [Live Site](https://drop-a-message.netlify.app/)
 
 ## Acknowledgments
 #### ADULTS ONLY
-* [Live Site](https://pawn-stars.netlify.app/).  
+* [Live Site](https://drop-a-message.netlify.app/).  
