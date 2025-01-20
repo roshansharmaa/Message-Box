@@ -15,7 +15,7 @@ Created using Firebase Database with CRUD operation in React, <b> With an Admin 
    ```bash
    npm install
    npm run dev
-
+3. Most important add your own api key of fire base
 ## License
 
 This project is licensed under the Lotus Flowers License 
